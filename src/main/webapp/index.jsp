@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello .....deploy the war file using automated jenkins.............</h2>
 </body>
 </html>
